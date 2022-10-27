@@ -7,7 +7,7 @@
   * This type of e-banking website is known as a phishing website. 
 
 
-## <img src="https://im2.ezgif.com/tmp/ezgif-2-cc181a583e.gif">  COMMON THREATS OF WEB PHISHING 
+## ![ezgif-5-be1eb00ce2](https://user-images.githubusercontent.com/72733514/198301555-d6ce6694-0a6f-4d94-83ae-55b18b4a2531.gif) COMMON THREATS OF WEB PHISHING 
 
 * Web phishing aims to steal private information, such as usernames, passwords, and credit card details, by way of impersonating a legitimate entity.
 
@@ -15,7 +15,7 @@
 
 * Large organizations may get trapped in different kinds of scams.
 
-## <img src="https://im2.ezgif.com/tmp/ezgif-2-cc181a583e.gif"> EFFECTIVE SOLUTION
+## ![ezgif-5-be1eb00ce2](https://user-images.githubusercontent.com/72733514/198301555-d6ce6694-0a6f-4d94-83ae-55b18b4a2531.gif) EFFECTIVE SOLUTION
        
 * To detect and predict e-banking phishing websites, we proposed an intelligent, flexible and effective system that is
       based on using classification algorithms. 
@@ -31,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/72733514/197624033-e3d13d50-0713-48c1-a16d-b0074da50b2a.png)
 
-# PROJECT OBJECTIVES <img src="https://im2.ezgif.com/tmp/ezgif-2-5fade44b80.webp">
+# PROJECT OBJECTIVES ![target gif](https://user-images.githubusercontent.com/72733514/198303394-d5c16946-4b59-4921-a382-4b22643ae571.gif)
 
 * To understand the problem to classify between regression or a classification kind of problem.
 * To know how to pre-process/clean the data using different data pre-processing techniques.
@@ -39,7 +39,7 @@
 * To know how to find the accuracy of the model.
 * To build web applications using the Flask framework.
 
-# PROJECT FLOW <img src="https://im2.ezgif.com/tmp/ezgif-2-cf10ed65a9.gif">
+# PROJECT FLOW ![hourglass](https://user-images.githubusercontent.com/72733514/198304121-70a97a35-1007-472c-883c-ec2bf88f2bdd.gif)
 
 * Download the dataset.
 * Preprocess or clean the data.
@@ -48,9 +48,9 @@
 * Save the model and its dependencies.
 * Build a Web application using a flask that integrates with the model built.
 
-# PRE REQUISITES  <img src="https://im2.ezgif.com/tmp/ezgif-2-8941cecf19.gif">
+# PRE REQUISITES ![card](https://user-images.githubusercontent.com/72733514/198304598-b35be438-076e-4992-b246-cbef38218331.gif)
 
- ## <img src="https://im2.ezgif.com/tmp/ezgif-2-a7ca7e33d9.gif">Step 1: ANACONDA NAVIGATOR
+ ## ![yellow dot](https://user-images.githubusercontent.com/72733514/198305129-46171614-2ce6-450a-b51d-08148d684e5a.gif) Step 1: ANACONDA NAVIGATOR
 
 * Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning related applications. 
 * It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform,  package management system.
@@ -67,7 +67,7 @@ Note:
     
     For this project, we will be using Jupyter notebook and Spyder.
  
- ## <img src="https://im2.ezgif.com/tmp/ezgif-2-a7ca7e33d9.gif"> Step 2: PYTHON NECESSITIES
+ ## ![yellow dot](https://user-images.githubusercontent.com/72733514/198305238-614116e9-99cc-4009-89d3-7a2dbc02bbef.gif) Step 2: PYTHON NECESSITIES
 
 * Sklearn: 
 

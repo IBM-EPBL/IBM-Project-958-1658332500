@@ -71,21 +71,23 @@ Note:
 
 * Sklearn: 
 
-       Scikit-learn is a library in Python that provides many unsupervised and supervised learning algorithms.
+       Scikit-learn is a library in Python that provides many unsupervised and supervised learning 
+       algorithms.
 
 * NumPy: 
 
-       NumPy is a Python package that stands for 'Numerical Python'. It is the core library for scientific computing, 
-       which contains a powerful  n-dimensional array object  
+       NumPy is a Python package that stands for 'Numerical Python'. It is the core library for scientific
+       computing, which contains a powerful  n-dimensional array object  
 
 * Pandas:
      
-       pandas is a fast, powerful, flexible, and easy to use open source data analysis and manipulation tool,
-       built on top of the Python programming language. 
+       pandas is a fast, powerful, flexible, and easy to use open source data analysis and 
+       manipulation tool,built on top of the Python programming language. 
 
 * Matplotlib: 
      
-       It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits
+       It provides an object-oriented API for embedding plots into applications using general-purpose 
+       GUI toolkits
 
 * Flask:
      
